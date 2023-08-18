@@ -9,10 +9,6 @@ This project involves the design and implementation of a 6-stage pipelined proce
 - [Pipeline Stages and Hazard Mitigation](#pipeline-stages-and-hazard-mitigation)
 - [Branch Prediction Technique](#branch-prediction-technique)
 - [Performance Evaluation](#performance-evaluation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
